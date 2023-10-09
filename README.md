@@ -25,14 +25,3 @@ I'm an Enthusiastic Game Developer looking for opportunities.<br>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white" style="margin:5px" />
      <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" style="margin:5px" />
 </p>
-
-
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Keaton296's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Keaton296&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
