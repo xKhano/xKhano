@@ -3,7 +3,7 @@ Hello, I'm Kaan, aka <b>Khano</b>! Welcome to my GitHub profile.<br>
 
 ## Who I Am 
 Computer Eng. Undergrad, senior year (4th)<br>
-I'm an Enthusiastic Game Developer looking for opportunities.<br>
+I'm an enthusiastic software engineer who develops video games, mobile apps and backend software.<br>
 ## My Knowledge
 <b>
 
