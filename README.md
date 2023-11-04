@@ -10,8 +10,11 @@ I'm an enthusiastic software engineer who develops video games, mobile apps and 
 ### Programming Languages:
 
 <p>
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin:5px" />
+    <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" style="margin:5px" />
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin:5px" />
+    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" style="margin:5px" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white" style="margin:5px" />
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="margin:5px" />
 </p>
 
 ### Tools/Frameworks/Engines:
