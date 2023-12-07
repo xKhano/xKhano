@@ -27,3 +27,10 @@ I'm an enthusiastic software engineer who develops video games, mobile apps and 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white" style="margin:5px" />
      <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" style="margin:5px" />
 </p>
+
+### Trophies/Badges:
+
+<p>
+     <img alt="Unity Junior Badge" height=100px width=100px src="https://images.credly.com/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" style="margin:5px" />
+     <img alt="Unity Essentials" height=100px width=100px src="https://images.credly.com/images/2ebece18-451f-4f69-868a-9b5edac57567/image.png">
+</p>
