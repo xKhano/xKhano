@@ -1,5 +1,4 @@
-# Kaan Dalkıran 
-Hello, I'm Kaan, aka <b>Khano</b>! Welcome to my GitHub profile.<br>
+# Kaan Dalkıran
 
 ## Who I Am 
 Computer Eng. Undergrad, senior year (4th)<br>
