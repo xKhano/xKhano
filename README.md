@@ -1,7 +1,7 @@
 # Kaan Dalkıran
 
 ## Who I Am 
-Computer Eng. Undergrad, senior year (4th)<br>
+Software Engineer
 I'm an enthusiastic software engineer who develops video games, mobile apps and backend software.<br>
 ## My Knowledge
 <b>
