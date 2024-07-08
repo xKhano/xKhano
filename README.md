@@ -11,14 +11,12 @@ I'm an enthusiastic software engineer who develops video games, mobile apps and 
 <p>
     <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" style="margin:5px" />
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin:5px" />
-    <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" style="margin:5px" />
 </p>
 
 ### Tools/Frameworks/Engines:
 
 <p>
     <img alt="Unity" src="https://img.shields.io/badge/Unity-000?style=for-the-badge&logo=unity&logoColor=white" style="margin:5px" />
-    <img alt="Godot"src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" style="margin:5px" />
     <img alt="SFML"src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=SFML&logoColor=white" style="margin:5px" />
      <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="margin:5px" />
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin:5px" />
